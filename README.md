@@ -1,1 +1,1 @@
-# jp-portfolio
+# JP Portfolio
